@@ -50,16 +50,72 @@ This is a console-based clothing store application built in Java using object-or
 ## Sample Output
 
 ```bash
-Welcome to the Clothing Store!
-Please enter your name:
-John Doe
 
-Are you a member? (y/n):
-y
+Menu:
+1. View Clothing
+2. View Cart
+3. Exit
+Select an option: 1
 
-Hello, John Doe! As a member, you receive a 10% discount.
-Available items:
-1. Shirt - Blue - $25.00
-2. Shirt - Black - $30.00
+Select clothing type: 
+shirts
 
-Select items to add to your cart...
+Select color: 
+red
+
+Select size: 
+medium
+
+Select max price: 
+30
+
+Shirt 1:
+Type: Shirt
+Color: Red
+Size: Medium
+Price: $29.99
+
+Would you like to add an item to the cart?
+yes
+
+Select item number: 
+1
+
+Item added to cart.
+
+Would you like to return to the menu?
+no
+
+Would you like to proceed to checkout?
+yes
+
+Checkout: 
+Do you want to checkout as a member or guest?
+1. Member
+2. Guest
+2
+
+Enter your first name:
+Guest
+
+Enter your last name:
+One
+
+Enter your address:
+123 address
+
+Enter your credit card number:
+12345678
+
+Your order details:
+
+Items in Cart:
+Type: Shirt
+Color: Red
+Size: Medium
+Price: $29.99
+
+Are you sure you want to purchase these items?:
+yes
+
+Order confirmed! Thank you for your purchase, Guest One
