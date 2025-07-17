@@ -1,7 +1,5 @@
 # Retail_Clothing_Store_Java_Project
 
-# 🛍️ Clothing Store Console App (Java OOP Project)
-
 This is a console-based clothing store application built in Java using object-oriented programming (OOP) principles. Users can browse clothing items, add them to a cart, and simulate a checkout process. The application supports different customer types with varying benefits (e.g., Members and Guests).
 
 ---
